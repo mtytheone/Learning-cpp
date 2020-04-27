@@ -1,0 +1,5 @@
+﻿  NewString.cpp
+I:\VisualStudio\Learning cpp\EXPractice7-2\EXPractice7-2\NewString.cpp(37,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  main.cpp
+  コードを生成中...
+  EXPractice7-2.vcxproj -> I:\VisualStudio\Learning cpp\EXPractice7-2\Debug\EXPractice7-2.exe
